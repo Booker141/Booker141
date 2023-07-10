@@ -2,10 +2,10 @@
 
 <h2>⚡️Quick Facts</h2>
 
-### 💻 Computer Science Engineer.
-### 🌱 I'm a curious person who needs to quench his thirst for knowledge with constant learning. 
-### 👨🏻‍💻 I'm very interested in interface (UI) and user experience (UX) design, I've been passionate about design for as long as I can remember 😄
-### 👨‍💻 Most of my projects are available on <a href="https://github.com/Booker141">Github</a>
+##### 💻 Computer Science Engineer.
+##### 🌱 I'm a curious person who needs to quench his thirst for knowledge with constant learning. 
+##### 👨🏻‍💻 I'm very interested in interface (UI) and user experience (UX) design, I've been passionate about design for as long as I can remember 😄
+##### 👨‍💻 Most of my projects are available on <a href="https://github.com/Booker141">Github</a>
 
 <h2>🚀 TFG tools</h2>
 <p>
