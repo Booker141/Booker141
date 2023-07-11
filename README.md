@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sergio!</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=booker141&label=Profile%20views&color=0e75b6&style=flat" alt="booker141" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=booker141" alt="booker141" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/senadev_" target="blank"><img src="https://img.shields.io/twitter/follow/senadev_?logo=twitter&style=for-the-badge" alt="senadev_" /></a> </p>
 
 <h2>⚡️Quick Facts</h2>
@@ -58,8 +54,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
-</p>
-
-<h3>Where to find me?</h3>
-<p> <a href="https://twitter.com/senadev_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/sergiogarcíanavarro/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a 
 </p>
