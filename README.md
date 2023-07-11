@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sergio!</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-<p align="left"> <a href="https://twitter.com/senadev_" target="blank"><img src="https://img.shields.io/twitter/follow/senadev_?logo=twitter&style=for-the-badge" alt="senadev_" /></a> </p>
-
 <h2>⚡️Quick Facts</h2>
 
 - 💻 Computer Science Engineer
