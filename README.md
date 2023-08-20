@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergio!</h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
+<h3 align="center">A passionate computer science engineer from Spain</h3>
 
 <h2>⚡️Quick Facts</h2>
 
