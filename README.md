@@ -7,7 +7,7 @@
 
 - 👨🏻‍💻 I'm very interested in interface (UI) and user experience (UX) design, I've been passionate about design for as long as I can remember 😄
 
-- 🌱 I’m currently learning **Next.js, Vue.js and Svelte**
+- 🌱 I’m currently learning **Next.js and Svelte**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Booker141](https://github.com/Booker141)
 
