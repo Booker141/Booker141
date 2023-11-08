@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sergiogn2010@hotmail.es**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sergiogarc%C3%ADanavarro/](https://www.linkedin.com/in/sergiogarc%C3%ADanavarro/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/sergiogarcianavarro/](https://www.linkedin.com/in/sergiogarcianavarro/)
 
 - **Get some coffee!**
 
